@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "VueSource demo project",
   "author": "Dave Stewart <dave@davestewart.co.uk>",
   "private": true,
   "scripts": {
